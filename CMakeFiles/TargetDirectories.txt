@@ -1,0 +1,9 @@
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/MyProj.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/edit_cache.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/rebuild_cache.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/list_install_components.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/install.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/install/local.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/install/strip.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/MyProj_autogen_timestamp_deps.dir
+/home/hitentandon/projects/qt/MyProj/CMakeFiles/MyProj_autogen.dir
